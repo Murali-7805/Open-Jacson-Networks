@@ -65,7 +65,8 @@ print("----------------------------------------------------------------------")
 
 
 ## Output
-![WhatsApp Image 2023-12-24 at 14 12 34_0c36f2ba](https://github.com/Murali-7805/Open-Jacson-Networks/assets/151489752/7cef482f-bf5e-4b89-9828-87e3b5c35607)
+![WhatsApp Image 2023-12-24 at 14 12 34_b9df987c](https://github.com/Murali-7805/Open-Jacson-Networks/assets/151489752/c717cbcd-9801-4eec-82c3-1c57011fe607)
+
 
 
 
