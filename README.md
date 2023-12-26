@@ -62,10 +62,13 @@ if (lam <  mu1) and (lam <  mu2) and (lam <  mu3):
 else:
     print("Warning! Objects Over flow will happen in the conveyor")
 print("----------------------------------------------------------------------")
+```
+
 
 
 ## Output
-![image](https://github.com/Murali-7805/Open-Jacson-Networks/assets/151489752/513a50d8-da53-413e-91c1-ccdfceb70123)
+![WhatsApp Image 2023-12-24 at 14 16 52_c07a7860](https://github.com/Murali-7805/Open-Jacson-Networks/assets/151489752/49d4a433-164d-475b-94b7-7c7ebd26130e)
+
 
 
 
